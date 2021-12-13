@@ -1232,7 +1232,7 @@
 }
 
 .u-section-10 .u-group-1 {
-  min-height: 537px;
+  min-height: 561px;
   height: auto;
   background-image: none;
   margin-top: 39px;
@@ -1246,7 +1246,7 @@
 .u-section-10 .u-text-2 {
   line-height: 2;
   font-weight: normal;
-  margin: 25px 0 0 60px;
+  margin: 0 21px 0 39px;
 }
 
 .u-section-10 .u-btn-1 {
@@ -1293,6 +1293,7 @@
   }
 
   .u-section-10 .u-text-2 {
+    margin-right: 0;
     margin-left: 0;
   }
 }
