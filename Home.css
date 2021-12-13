@@ -725,6 +725,16 @@
     width: 340px;
     margin-top: -1384px;
   }
+
+  .u-section-8 .u-layout-cell-1 {
+    min-height: 1180px;
+  }
+
+  .u-section-8 .u-text-2 {
+    width: auto;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
 } .u-section-9 {
   background-image: none;
 }
@@ -849,16 +859,17 @@
 
 @media (max-width: 991px) {
   .u-section-9 .u-sheet-1 {
-    min-height: 358px;
+    min-height: 477px;
   }
 
   .u-section-9 .u-text-1 {
-    margin-top: -2px;
+    width: auto;
+    margin-top: 27px;
   }
 
   .u-section-9 .u-layout-wrap-1 {
-    margin-top: 115px;
-    margin-bottom: 0;
+    margin-top: 33px;
+    margin-bottom: 53px;
   }
 
   .u-section-9 .u-layout-cell-1 {
@@ -895,7 +906,6 @@
   }
 
   .u-section-9 .u-text-1 {
-    width: auto;
     margin-top: 45px;
   }
 
@@ -947,20 +957,27 @@
     margin-right: 126px;
     margin-left: 150px;
   }
+
+  .u-section-9 .u-text-4 {
+    width: auto;
+    margin-top: 34px;
+    margin-right: auto;
+    margin-left: 0;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-9 .u-sheet-1 {
-    min-height: 693px;
+    min-height: 1241px;
   }
 
   .u-section-9 .u-text-1 {
     font-size: 1.5rem;
-    margin-top: 711px;
+    margin-top: 60px;
   }
 
   .u-section-9 .u-layout-wrap-1 {
-    margin-top: -571px;
+    margin-bottom: 11px;
   }
 
   .u-section-9 .u-layout-cell-1 {
@@ -984,6 +1001,7 @@
 
   .u-section-9 .u-image-2 {
     height: 215px;
+    width: 240px;
     margin-top: -341px;
     margin-left: 40px;
   }
@@ -993,14 +1011,11 @@
   }
 
   .u-section-9 .u-image-3 {
-    height: 212px;
+    height: 182px;
+    width: 240px;
     margin-top: 30px;
-    margin-right: 60px;
+    margin-right: auto;
     margin-left: 40px;
-  }
-
-  .u-section-9 .u-text-4 {
-    margin-top: 0;
   }
 } .u-section-10 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("images/alex-baber-P_DeR9_AuME-unsplash.jpg");
